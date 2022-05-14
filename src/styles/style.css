@@ -4,3 +4,20 @@
     gap: "1rem" ;
     align-items: flex-start;
 }
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.card-name {
+    margin-left: 10px;
+}
+
+.card-price {
+display: flex;
+align-items: baseline;
+}

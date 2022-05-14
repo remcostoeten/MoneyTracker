@@ -14,7 +14,7 @@ function App() {
                 <Button variant="outline-primary">Add expense</Button>
             </Stack>
             <div className="card-container">
-                <BudgetCard name="Entertainment" amount={200} max="1000"></BudgetCard>
+                <BudgetCard name="Entertainment" amount={800} max="1000"></BudgetCard>
             </div>
         </Container>
     </>
